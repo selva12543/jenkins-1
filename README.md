@@ -59,7 +59,7 @@ Ensure the following before running the project:
 
 
 
-## Projects steps 
+## Project steps 
 
 Install Jenkins , start to run  , ebable, and check status 
 
